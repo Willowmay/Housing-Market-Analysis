@@ -18,6 +18,7 @@ such as: Listing title, Listing date, Listing month, Rent price, Square Feet, La
 number of Bathrooms and Bedrooms. 
 
 The data file consists of 48 columns, and 40,600 rows, (90.56MB). 
+Therefore I failed to upload the original dataset into my github, which has limitation for dataset size (less than 25MB).
 
 
 2. Questions & Assumptions
