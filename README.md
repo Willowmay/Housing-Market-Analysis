@@ -1,6 +1,6 @@
 # Housing-Market-Analysis
 
-This project is the final project for one of my data analytic course at Columbia University with my classmate Adam Kirstein!
+This project is the final project for one of my data analytic courses at Columbia University with my classmate Adam Kirstein!
 
 
 1. Data Description
