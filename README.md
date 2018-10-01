@@ -5,16 +5,20 @@ This project is the final project for one of my data analytic course at Columbia
 
 1. Data Description
 
-The dataset on which we are conducting our analyses focuses on housing information collected from Craigslist.com. 
+The dataset on which we are conducting our analysis focuses on housing information collected from Craigslist.com. 
 The dataset was scraped by a research team at the University of Washington in Seattle on October first, 
 and includes house listings from as far back as March of 2016. 
+
 The team has been collecting data through Craigslist.com, 
 among many other sources during an ongoing exploration into the behavior of rent across Seattle, 
 in part to measure the impact of housing ordinances enacted by the Seattle Housing Authority. 
 
 The dataset itself is broken into columns that indicate various aspects of housing, 
 such as: Listing title, Listing date, Listing month, Rent price, Square Feet, Latitude and Longitude, Match address, 
-number of Bathrooms and Bedrooms. The data file consists of 48 columns, and 40,600 rows, (90.56MB). 
+number of Bathrooms and Bedrooms. 
+
+The data file consists of 48 columns, and 40,600 rows, (90.56MB). 
+
 
 2. Questions & Assumptions
 
