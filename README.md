@@ -29,5 +29,7 @@ With this dataset, we hope to explore the intricacies of rent behavior within th
 
 This project has set out to explain the variability of rental prices within Seattle, Washington, 
 and by what criteria are these rental prices most affected, and then to create a predictive model 
-that best predicts rental pricing. Our hypothesis suggests that price variability is most correlated 
+that best predicts rental pricing. 
+
+Our hypothesis suggests that price variability is most correlated 
 with the number of bedrooms and bathrooms, as well as the total square footage of the apartment. 
