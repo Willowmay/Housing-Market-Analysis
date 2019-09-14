@@ -1,4 +1,4 @@
-# Housing-Market-Analysis
+# Real Esate-Market-Analysis
 
 This project is the final project for one of my data analytic courses at Columbia University with my classmate Adam Kirstein!
 
